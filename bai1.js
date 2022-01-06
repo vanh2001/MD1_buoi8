@@ -8,7 +8,7 @@ if(year % 4 == 0){
             alert(year + 'không là năm nhuận');
         }
     }else {
-        alert(year + 'không là năm nhuận');
+        alert(year + 'là năm nhuận');
     }
 }else {
     alert(year + 'Không là năm nhuận');
